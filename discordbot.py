@@ -60,4 +60,4 @@ async def raid(ctx):
 
 
 
-client.run('Nzg5NDM3NzA1MTY3Njk5OTY4.X9yDJw.yJRRnSrjYOldzPhkYlUqgrlWwCQ')
+client.run()
